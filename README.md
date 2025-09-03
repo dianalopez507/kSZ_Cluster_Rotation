@@ -1,5 +1,6 @@
 # Description
 Jupyter notebook compiling results of the Research Project: Searching for signature of galaxy cluster rotation using ACT data.
+Libraries: astropy, pixell, pyfits, skimage.
 
 # Content
 ## Test: Dipole signal
